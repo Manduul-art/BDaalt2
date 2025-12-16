@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html --no-cache",
-    "build": "parcel build src/index.html --public-url ./ --no-cache",
+    "build": "parcel build src/index.html --public-url /BDaalt2/ --no-cache",
     "resume:pdf": "node tools/generateResumePdf.js"
   },
   "repository": {
